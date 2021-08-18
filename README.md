@@ -1,0 +1,4 @@
+- 👋 Olá, Eu sou @MatheusDer, mas prefiro ser chamado apenas por Der.
+- 👀 Eu busco ser um desenvolvedor na área de AI.
+- 🌱 Atualmente estou aprendendo Python.
+- 📫 Fale comigo pelo Linkedin: https://www.linkedin.com/in/matheus-der-239627216/
